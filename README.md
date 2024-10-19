@@ -1,2 +1,1 @@
-# .github.io
-Carola's website
+# Carola's website
