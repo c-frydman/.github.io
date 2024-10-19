@@ -6,7 +6,8 @@ title: "Publications"
 
 
 
-#### The Value of Ratings: Evidence from their Introduction in Securities Markets (with [Asaf Bernstein](https://leeds-faculty.colorado.edu/AsafBernstein/) and [Eric Hilt](http://www.erichilt.net/))  
+#### The Value of Ratings: Evidence from their Introduction in Securities Markets
+(with [Asaf Bernstein](https://leeds-faculty.colorado.edu/AsafBernstein/) and [Eric Hilt](http://www.erichilt.net/))  
 
 ##### Journal of Political Economy, Forthcoming
 [[Paper](https://www.dropbox.com/s/muu3ch90kr3r3a5/Ratings_BFH_April23.pdf?raw=1)]
@@ -14,14 +15,16 @@ title: "Publications"
 &nbsp;
 
 
-#### Historical Banking Crises (with [Chenzi Xu](https://chenzi-xu.com/)) <span style="font-variant:small-caps;color:Tomato;">(new)</span>
+#### Historical Banking Crises 
+(with [Chenzi Xu](https://chenzi-xu.com/)) 
 
 ##### Annual Review of Financial Economics, Forthcoming
 [[Paper](https://www.dropbox.com/s/s3faf5tik07b7dx/ARFE_March2023.pdf?raw=1)]
 
 &nbsp;
 
-#### Political Discretion and Antitrust Policy: Evidence from the Assassination of President McKinley (with [Richard B. Baker](https://business.tcnj.edu/business-faculty/richard-baker/) and [Eric Hilt](http://www.erichilt.net/))
+#### Political Discretion and Antitrust Policy: Evidence from the Assassination of President McKinley 
+(with [Richard B. Baker](https://business.tcnj.edu/business-faculty/richard-baker/) and [Eric Hilt](http://www.erichilt.net/))
 
 ##### Journal of Law and Economics, 2023, vol. 66(4) 
 
@@ -29,7 +32,8 @@ title: "Publications"
 
 &nbsp;
 
-#### Financial Frictions and Employment during the Great Depression (with [Efraim Benmelech](https://effibenmelech.com/) and [Dimitris Papanikolaou](https://dimitris-papanikolaou.github.io/website/))
+#### Financial Frictions and Employment during the Great Depression 
+(with [Efraim Benmelech](https://effibenmelech.com/) and [Dimitris Papanikolaou](https://dimitris-papanikolaou.github.io/website/))
  
 ##### Journal of Financial Economics, 2019, vol. 133(3), 541-563 
 
@@ -38,7 +42,8 @@ title: "Publications"
 &nbsp;
 
 
-#### In Search of Ideas: Technological Innovation and Executive Pay Inequality  (with [Dimitris Papanikolaou](https://dimitris-papanikolaou.github.io/website/))
+#### In Search of Ideas: Technological Innovation and Executive Pay Inequality  
+(with [Dimitris Papanikolaou](https://dimitris-papanikolaou.github.io/website/))
 
 ##### Journal of Financial Economics, 2018, vol. 130(1), 1-24 
  
@@ -46,7 +51,9 @@ title: "Publications"
 
 &nbsp;
 
-#### Investment Banks as Corporate Monitors in the Early 20th Century (with [Eric Hilt](http://www.erichilt.net/))
+#### Investment Banks as Corporate Monitors in the Early 20th Century 
+(with [Eric Hilt](http://www.erichilt.net/))
+
 ##### American Economic Review, July 2017, vol. 107(7): 1938-70
 
 [[Paper](https://www.dropbox.com/s/gewjpji156lnze1/UnderwritersonBoards.pdf?raw=1)] [[Web Appendix](https://www.dropbox.com/s/fbm9ywbkscgt28i/UnderwritersonBoards_appendix.pdf?raw=1)]
@@ -54,6 +61,7 @@ title: "Publications"
 &nbsp;
 
 #### Rising Through the Ranks: The Evolution of the Market for Corporate Executives, 1936-2003
+
 ##### Management Science, November 2019, vol. 65(11)
 
 [[Paper](https://www.dropbox.com/s/ghmubctcx5a5m2d/Frydman_Rising%20Through%20the%20Ranks_2018.pdf?raw=1)]
@@ -61,14 +69,20 @@ title: "Publications"
 
 &nbsp;
 
-#### Economic Effects of Early `Shadow Banks': Trust Companies and the Panic of 1907 (joint with [Eric Hilt](http://www.erichilt.net/) and Lily Y. Zhou)
+#### Economic Effects of Early `Shadow Banks': Trust Companies and the Panic of 1907 
+
+(with [Eric Hilt](http://www.erichilt.net/) and Lily Y. Zhou)
+
 ##### Journal of Political Economy, August 2015, vol. 123(4): 902-40.
 
 [[Paper](https://www.dropbox.com/s/oazgwzf4dthwdi3/Panic_0314.pdf?raw=1)]
 
 &nbsp;
 
-#### Military CEOs (with [Efraim Benmelech](https://effibenmelech.com/))
+#### Military CEOs 
+
+(with [Efraim Benmelech](https://effibenmelech.com/))
+
 ##### Journal of Financial Economics, July 2015, vol. 117(1): 43-59.
   
 [[Paper](https://www.dropbox.com/s/pju6n8brlfqzzla/militaryceos_Dec_2013.pdf?raw=1)] 
@@ -77,21 +91,30 @@ title: "Publications"
 &nbsp;
 
 
-#### Pay Cuts for the Boss: Executive Compensation in the 1940s (joint with [Raven Molloy](https://www.federalreserve.gov/econres/raven-molloy.htm))
+#### Pay Cuts for the Boss: Executive Compensation in the 1940s 
+
+(joint with [Raven Molloy](https://www.federalreserve.gov/econres/raven-molloy.htm))
+
 ##### Journal of Economic History 72 (March 2012): 225-251
  
 [[Paper](https://www.dropbox.com/s/83i0mycda78g1a2/frydmanmolloy_paycuts.pdf?raw=1)]
 
 &nbsp;
 
-#### Does Tax Policy Affect Executive Compensation? Evidence from Postwar Tax Reforms  (with [Raven Molloy](https://www.federalreserve.gov/econres/raven-molloy.htm))
+#### Does Tax Policy Affect Executive Compensation? Evidence from Postwar Tax Reforms  
+
+(with [Raven Molloy](https://www.federalreserve.gov/econres/raven-molloy.htm))
+
 ##### Journal of Public Economics 95 (December 2011): 1425-37
  
 [[Paper](https://www.dropbox.com/s/zzofok45sxfhclc/taxec_frydmanmolloy_1110.pdf?raw=1)]
 
 &nbsp;
 
-#### CEO Compensation (joint with Dirk Jenter)
+#### CEO Compensation 
+
+(with [Dirk Jenter](https://www.lse.ac.uk/finance/people/faculty/Jenter))
+
 ##### Annual Review of Financial Economics 2 (December 2010): 75-102
 
 [[Paper](https://www.annualreviews.org/doi/full/10.1146/annurev-financial-120209-133958)]
@@ -99,7 +122,10 @@ title: "Publications"
 &nbsp;
 
  
-#### Executive Compensation: A New View from a Long-Term Perspective, 1936-2005  (with [Raven Saks](https://www.federalreserve.gov/econres/raven-molloy.htm))
+#### Executive Compensation: A New View from a Long-Term Perspective, 1936-2005  
+
+(with [Raven Saks](https://www.federalreserve.gov/econres/raven-molloy.htm))
+
 ##### Review of Financial Studies 23 (May 2010): 2099-2138
   
 [[Paper](https://www.dropbox.com/s/4xs5xbjhgt833oq/trends_rfs2010.pdf?raw=1)]
