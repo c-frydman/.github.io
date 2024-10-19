@@ -15,9 +15,12 @@ navbar:
     - text: "Other"
       icon: fa-commenting-o 
       href: opub.html
-    - text: "Data Library"
+    - text: "Data"
       icon: fa-database  
       href: data.html
+    - text: "Media"
+      icon: fa-podcast  
+      href: media.html
     - text: "CV"
       icon: fa-file-pdf-o
       href: https://www.dropbox.com/s/orng1x51q67pez5/CV_Frydman_Carola_0222.pdf?raw=1
@@ -30,6 +33,6 @@ navbar:
       href: https://scholar.google.com/citations?user=td7j7bEAAAAJ&hl=en       # CHANGE HERE 
 output:
   html_document:
-    theme: flatly    
+    theme: spacelab    
     highlight: textmate
     
